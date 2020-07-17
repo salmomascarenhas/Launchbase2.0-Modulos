@@ -10,3 +10,5 @@ tmp/nanoc/
 crash.log
 
 /modulo03/node_modules/
+/modulo04/node_modules/
+/*/node_modules/
