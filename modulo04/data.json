@@ -1,0 +1,32 @@
+{
+  "instructors": [
+    {
+      "avatar_url": "https://www.google.com",
+      "name": "Salmo",
+      "birth": "1997-05-21",
+      "gender": "M",
+      "services": "sa"
+    },
+    {
+      "avatar_url": "https://www.google.com",
+      "name": "Salmo",
+      "birth": "1997-05-21",
+      "gender": "M",
+      "services": "sa"
+    },
+    {
+      "avatar_url": "https://www.google.com",
+      "name": "Salmo",
+      "birth": "1997-05-21",
+      "gender": "M",
+      "services": "sa"
+    },
+    {
+      "avatar_url": "https://www.google.com",
+      "name": "Salmo",
+      "birth": "1997-05-21",
+      "gender": "M",
+      "services": "sa"
+    }
+  ]
+}
